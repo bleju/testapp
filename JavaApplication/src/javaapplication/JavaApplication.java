@@ -19,6 +19,7 @@ public class JavaApplication {
         while(true){
             System.out.println("Jest okej");
             Thread.sleep(5*1000);
+            System.out.println("New feature");
         }
     }
     
